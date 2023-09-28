@@ -1,0 +1,8 @@
+github.com/bep/gr v0.0.0-20170817090531-52c9d7f2f11a h1:6gm9UbF7U1D4cexLZOJONfa832pWmgMhq+wbvVfaadY=
+github.com/bep/gr v0.0.0-20170817090531-52c9d7f2f11a/go.mod h1:ny2VYCoz1aP4dx9XT8A1FXd8XaH/toufhF0uoy5CsYQ=
+github.com/divan/three v0.0.0-20190518222012-e7fb2420829c h1:oh/oqyVbEul3NukO6HwiiL81ktOTG3B7Q3tsCuoNJNY=
+github.com/divan/three v0.0.0-20190518222012-e7fb2420829c/go.mod h1:mvdRimXSTqMErVt0/gKwmuW1YpM0bJNKEKPnMC4qols=
+github.com/fatih/structs v1.1.0 h1:Q7juDM0QtcnhCpeyLGQKyg4TOIghuNXrkL32pHAUMxo=
+github.com/fatih/structs v1.1.0/go.mod h1:9NiDSp5zOcgEDl+j00MP/WkGVPOlPRLejGD8Ga6PJ7M=
+github.com/gopherjs/gopherjs v1.17.2 h1:fQnZVsXk8uxXIStYb0N4bGk7jeyTalG/wsZjQ25dO0g=
+github.com/gopherjs/gopherjs v1.17.2/go.mod h1:pRRIvn/QzFLrKfvEz3qUuEhtE/zLCWfreZ6J5gM2i+k=
